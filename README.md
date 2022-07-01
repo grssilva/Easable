@@ -5,7 +5,7 @@ The objective of this project is to enable adding easing to any game with a sing
 
 Instead of
 ```
-attr_access :position
+attr_accessor :position
 ```
 you can use:
 ```
