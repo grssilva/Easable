@@ -24,7 +24,9 @@ and when you access it using the
 ```
 self.position 
 ```
-you get the correct value depening on the easing method
+you get the correct value depening on the easing method.
 
 ![screenshot](screenshot.gif)
+
+You can find all easing methods from the easing.rb class on [https://easings.net/](https://easings.net/)
 
