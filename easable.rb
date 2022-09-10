@@ -55,7 +55,7 @@ class Easable
   end
 
   def remaining_duration
-    (Kernel.tick_count - @start_at) - duration
+    (Kernel.tick_count - @start_at) - @duration
   end
 
   def reset_to(value)
